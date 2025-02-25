@@ -1,0 +1,29 @@
+.submit {
+    width: 800px;
+    height: 2500px;
+    position: absolute;
+    left: 350px;
+    top: 77px;
+    background-color: #fff;
+}
+.user {
+    text-align: center;
+    font-size: 15px;
+    margin: 40px;
+}
+.main-text {
+    display: flex;
+    justify-content: center;
+
+}
+.text {
+    height: 500px;
+    width: 300px;
+}
+p {
+    text-align: center;
+}
+button {
+ position: absolute;
+ left: 700px;
+}

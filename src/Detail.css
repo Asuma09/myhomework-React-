@@ -1,0 +1,20 @@
+.detail {
+    width: 800px;
+    height: 1000px;
+    position: absolute;
+    left: 350px;
+    top: 77px;
+    background-color: #fff;
+}
+.user {
+    text-align: left;
+}
+.date {
+    text-align: end;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: left;
+}

@@ -1,0 +1,16 @@
+.header {
+    background-color: brown;
+    height: 60px;
+    top: 0;
+    width: 100%;
+    position: absolute;
+}
+.nav {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    gap: 80px;
+}
+.list{
+    width: fit-content;
+}

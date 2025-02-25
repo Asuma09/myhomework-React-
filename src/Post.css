@@ -1,0 +1,17 @@
+.post {
+    width: 800px;
+    height: 2500px;
+    position: absolute;
+    left: 350px;
+    top: 77px;
+    background-color: #fff;
+}
+.post-item {
+    border-bottom: 1px solid #000000;
+}
+p {
+    text-align: end;
+}
+h1 {
+    text-align: center;
+}
