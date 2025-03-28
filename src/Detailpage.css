@@ -1,0 +1,27 @@
+.post {
+    width: 800px;
+    height: 2500px;
+    position: absolute;
+    left: 350px;
+    top: 77px;
+    background-color: #fff;
+}
+
+.username {
+    font-size: small;
+    text-align: end;
+}
+.text {
+    font-size: 30px;
+    text-align: center;
+}
+
+.button {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+h1 {
+    border-bottom: #000 solid 1px;
+}
+

@@ -1,0 +1,37 @@
+.post {
+    width: 800px;
+    height: 2500px;
+    position: absolute;
+    left: 350px;
+    top: 77px;
+    background-color: #fff;
+}
+.post-list {
+    list-style-type: none;
+    position: relative;
+    
+}
+.border {
+    position: absolute;
+    left: -1px;
+    width: 100%;
+    border-bottom: #000 solid 1px;
+}
+.like-button {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 10px;
+  }
+  
+  .like-button:hover {
+    background-color: #ff1a1a;
+  }
+
+div {
+    padding: 0%;
+}
